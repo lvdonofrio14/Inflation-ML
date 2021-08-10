@@ -1,0 +1,303 @@
+Operator
+Greetings and welcome to The Home Depot's First Quarter 2021 Earnings Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation.
+[Operator Instructions]
+As a reminder, this call is being recorded. It is now my pleasure to introduce your host, Isabel Janci, please go ahead.
+Isabel Janci - The Home Depot, Inc. - VP, IR & Treasurer Thank you, Christine, and good morning, everyone.
+Welcome to Home Depot's first quarter 2021 earnings call. Joining us on our call today are Craig Menear, Chairman and CEO, Ted Decker, President and Chief Operating Officer, and Richard McPhail, Executive Vice President and Chief Financial Officer.
+Following our prepared remarks, the call will be open for questions. Questions will be limited to analysts and investors, and as a reminder, please limit yourself to one question, with one follow-up. If we are unable to get to your question during the call, please call our Investor Relations department at 770-384- 2387.
+Before I turn the call over to Craig, let me remind you that today's press release and the presentations made by our executives include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These statements are subject to risks and uncertainties that could cause actual results to differ materially from our expectations and projections. These risks and uncertainties include, but are not limited, the factors identified in the release and in our filings with the Securities and Exchange Commission.
+Today's presentation will also include certain non-GAAP measures. Reconciliation of these measures is provided on our website.
+Now let me turn the call over to Craig.
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Thank you, Isabel, and good morning everyone. We appreciate you joining us on our call this morning.
+Fiscal 2021 is off to a strong start as we grew the business by over $9 billion compared to the first quarter of last year. Sales for the first quarter were $37.5 billion, up 32.7 percent from last year. Comp sales were up 31.0 percent from last year, and our U.S. stores had positive comps of 29.9 percent. Diluted earnings per share were $3.86 in the first quarter, up from $2.08 in the first quarter last year.
+   
+Our results this quarter were, once again, driven by broad-based strength across the business and geographies. All of our top 40 markets posted double-digit comps, while Canada posted comps above the Company average and Mexico posted double-digit comps. Both ticket and transactions were up double digits in the quarter. And as Ted will detail, we saw strong double-digit growth from both our Pro and DIY customers. We continued to effectively manage the outsized demand for home improvement products seen throughout most of last year, despite disruptions in global supply chains that were further exacerbated by port congestion during the quarter. We leveraged the scale of our supply chain and partnered with vendors to maintain our in- stock positions and prioritize key SKUs in high-demand categories.
+While we continued to see a strong level of engagement across our digital platforms, we saw more of our customers return to our stores. Sales leveraging our digital platforms increased approximately 27 percent versus the first quarter last year, and approximately 55 percent of online orders were fulfilled through a store. We continue to roll out new capabilities, such as mixed cart selling from store, that remove friction for both customers and associates. The mixed cart feature enables associates to more efficiently and effectively serve the total project needs for a customer, as products from both the website and store can be added to a single transaction.
+We also continue to drive interconnected enhancements in other areas of the business to solve customer pain points. In tool rental, for example, we will soon expand our Rent Online pilot chain-wide, enabling rent online, pick up in store capabilities for all 1,300 plus tool rental locations in the U.S and Canada. This will enhance the experience for our busy Pro and DIY customers and complement additional investments we are making to expand our rental footprint and increase our assortment and delivery capabilities.
+We are focused on continuing to leverage the momentum of our strategic investments to further enhance the interconnected shopping experience. Our efforts will continue to support what we believe is our winning formula:
+• Deliver the best shopping experience in home improvement;
+• Extend our position as the low-cost provider with a relentless focus on productivity;
+• And be the most efficient investor of capital in home improvement.
+We believe this strategy will help us deliver returns by driving growth faster than the market in any environment.
+The build out of our One Home Depot Supply Chain vision is a wonderful example of our strategy in action. Enhanced fulfillment capabilities will not only create a better customer experience, but they will also expand the breadth of our current opportunity set from both a product and customer standpoint. The ability to combine this growth potential with scale to create the lowest cost network in home improvement is a formula that we believe delivers long-term value creation for our customers, supplier partners, and shareholders. During the quarter we continued to build out our One Supply Chain vision by opening several new facilities and we are very excited with the progress we continue to make on this key strategic priority.
+We have now been operating in this unprecedented demand environment for over a year and continue to align around a few key learnings. First, the investments we have made in the business over the past decade were the right ones. And second, they have enabled agility and flexibility to execute on critical business decisions in a challenging and dynamic operating environment. As a result, we have managed unprecedented levels of web traffic and record levels of product flowing through our supply chain, all while improving customer service levels in our stores. These factors, coupled with our world-class associates and strong partnership with suppliers, have enabled us to meet outsized demand week after week.
+Our culture has remained our north star, as our decisions are anchored to some of our most important values – do the right thing and take care of our people. Our ability to continue investing for the future, while also managing the most fluid environment in our company’s history is a direct result of our associates and their
+
+extraordinary efforts. I want to close by thanking them for the many ways they continue to live our values by serving our customers, communities and each other during these challenging times.
+With that, let me turn the call over to Ted.
+Ted Decker - The Home Depot, Inc. - President & COO Thanks Craig and good morning everyone.
+I want to start by also thanking all of our associates and supplier partners for their commitment to serving our customers and communities.
+We continued to experience unprecedented levels of demand during the first quarter, with comps accelerating to more than 30 percent when compared to the first quarter of last year. This elevated demand and transportation headwinds are pressuring parts of the supply chain, but our teams continue to work together with our supplier partners to manage through these pressures.
+Moving to our comp performance during the first quarter... 13 of our 14 merchandising departments posted comps at or above 20 percent, led by our lumber and kitchen & bath departments. Our comp average ticket increased10.3percent,andcomptransactionsincreased19.1percent. Similartowhatwereportedinour previous three quarters, the growth in our comp average ticket was driven by elevated project demand, customers’ trading up to new and innovative products, and continued inflation in many product categories, including lumber.
+This was another record-setting quarter for lumber prices. Let me give you an example of what that means for one of our core lumber SKUs... at the end of the first quarter last year, a sheet of 7/16” OSB was approximately $9.55. As we exited the first quarter this year, that same sheet of OSB more than quadrupled in price to $39.76.
+Inflation from core commodity categories positively impacted our average ticket growth by approximately 375 basis points during the first quarter.
+Our interconnected retail strategy is resonating with our customers, as evidenced by strong growth from both in-store and online transactions, and we are pleased with our ability to meet widespread demand across our sellingplatforms. AsyouheardfromCraig,salesfromourdigitalchannelsgrewby27percentduringthe first quarter, which equates to more than 100 percent growth on a two-year, stacked basis.
+Big-ticket comp transactions, or those over $1,000, were up approximately 50 percent compared to the first quarteroflastyear. Wesawwide-spreadbig-ticketstrengthacrossourbusiness,withnotableoutperformance in lumber, vinyl-plank flooring, and many of our installation services.
+From a customer standpoint, we saw double-digit growth with both our Pro and DIY customers. Growth with both customer groups accelerated during the first quarter, with Pro sales growth slightly out-pacing DIY.
+Sales to our Pro customers continued to strengthen, posting the fourth consecutive quarter of accelerating growth and the best quarterly growth rate on record. Pros continue to tell us that project demand is strong, and their backlogs are growing.
+Shifting over to our DIY customers... the strong demand we saw during the back half of last year continued during the first quarter. From gardening to garage & organization, new and existing customers are engaging withhomeimprovement. Andduringthequarter,wewerealsowell-positionedforthestartoftheSpring selling season.
+ 
+We took decisive action earlier than usual to proactively lean into our inventory position. This paid off, as Spring began breaking across the country, and our associates were well-equipped to service customers across keyoutdoorandgardencategories. Andthestrengthingardeningwasmorethanjustplantsandshrubs...we posted a record quarter in categories like planters and hardscapes.
+Additionally, while outdoor categories exhibited significant growth during the first quarter, we’ve continued to see strong momentum with interior projects around the house. Interior projects like countertops, vanities, blinds, and home décor all showed significant growth in the first quarter.
+As we look forward to the rest of the year... we are focused on continuing the momentum we are seeing with ourcustomers. We’reparticularlyencouragedwiththestrongdemandwe’reseeingfromourProcustomers. AndforourPros...weknowthatbrandsmatter. BrandslikeMilwaukee,Klein,andCarlonhavesignificant market share in their respective categories and are trusted by our Pro customers to get the job done.
+Milwaukee recently expanded their powerful M18 battery platform to include a full line of cordless nailers that deliver pneumatic performance with no compressors, no gas cartridges, and rapid-fire rates to keep Pro’s productive. TheM18platformnowfeaturesover200toolsthatareexclusivetoTheHomeDepotinthebig- box, home improvement channel.
+And at a time when Pros are busier than ever, we are thrilled that we are the destination for Carlon’s PVC electricalboxesandKleinTools. Thesebrandsaretwoofthemostwidelyusedbyelectricians. We’ve enjoyed a long exclusive partnership with Klein, being first to market with their new and innovative products, and we are now the exclusive national partner of Carlon in the big-box, home improvement channel.
+And while we don’t know how the demand environment will ultimately unfold, as we look forward to the rest of the busy Spring season, we feel great about our position, and we look forward to serving our customers both in-store and online.
+With that, I’d like to turn the call over to Richard.
+Richard McPhail - The Home Depot, Inc. - EVP & CFO Thank you Ted and good morning everyone.
+In the first quarter, total sales were $37.5 billion, an increase of $9.2 billion, or 32.7 percent from last year.
+During the first quarter, our total company comps were positive 31.0 percent, with positive comps of 19.8 percent in February, 36.2 percent in March, and 34.3 percent in April. Comps in the U.S. were positive 29.9 percent for the quarter, with positive comps of 19.9 percent in February, 35.6 percent in March, and 32.0 percent in April.
+During the first quarter, all 19 of our U.S. regions, as well as Canada and Mexico posted strong double- digit comps.
+In the first quarter, our gross margin was 34.0 percent, a decrease of approximately 10 basis points from lastyear. Mixpressurefromhigherlumbersalesalonenegativelyimpactedourgrossmarginby approximately 35 basis points.
+ 
+During the first quarter, operating expense as a percent of sales decreased approximately 390 basis points to 18.6 percent. We were pleased with our operating leverage during the first quarter as it reflects disciplined expense control, along with a couple of other expense items that I want to highlight. First...our operating leverage in the first quarter of this year reflects the impact of several one-time expenses that we incurred in the first quarter of 2020, including additional compensation and benefits to support our associates. These expenses were partially offset by underspend in other expense items in the first quarter of last year, notably payroll, as we worked to staff-up labor to meet the surge in demand. Together, the net impact of these factors resulted in approximately 240 basis points of operating expense leverage during the first quarter of 2021.
+Second...during the first quarter of 2021, we incurred approximately $80 million of COVID-related expenses, which created approximately 20 basis points of operating expense deleverage.
+And lastly...our operating expense leverage during the first quarter also includes pressure from higher accrued bonus expense, primarily related to our outperformance for our store-success-sharing program and store and field-based management bonuses for the first half of fiscal 2021.
+Our operating margin for the first quarter was 15.4 percent, compared to 11.6 percent in the first quarter of 2020.
+Interest and other expense for the first quarter increased by $26 million to $333 million, due primarily to higher long-term debt levels than one-year ago.
+In the first quarter, our effective tax rate was 23.9 percent, down from 24.4 percent in the first quarter of fiscal 2020.
+Our diluted earnings per share for the first quarter were $3.86, an increase of 85.6 percent compared to the first quarter of 2020.
+During the quarter, we opened one new store in the U.S. and one in Mexico, bringing our total store count to 2,298. Selling square footage at the end of the quarter was 239 million square feet.
+At the end of the quarter, inventories were $19.2 billion, up $4.2 billion from last year and inventory turns were 5.5 times, up from 5.0 times last year.
+Turning to capital allocation...our long-term principles for how we think about deploying capital have not changed.
+First and foremost, we will invest in our business. During the first quarter, we invested approximately $525 million back into our business in the form of capital expenditures.
+And second, it is our intent to return excess cash to shareholders through a balanced approach of paying a healthy dividend and repurchasing shares. During the first quarter, we paid approximately $1.8 billion in dividends to our shareholders and we returned approximately $4.0 billion to shareholders in the form of share repurchases. Our share repurchases during the first quarter partially reflect an elevated cash balance
+
+in 2020, when we paused share repurchases to temporarily increase our liquidity levels as we navigated the pandemic.
+Computed on the average of beginning and ending long-term debt and equity for the trailing twelve months, return on invested capital was approximately 45.1 percent, up from 40.8 percent in the first quarter of fiscal 2020.
+Moving to the broader demand environment for home improvement...the strong demand that we've seen for more than a year now has continued. During the first two weeks of May, on a 2-year stacked basis, we've seen comps in the U.S. above 30 percent. Housing remains strong, homeowners' balance sheets are healthy, and our customers continue to tell us that they are planning on spending on a variety of home improvement projects.
+With that said, we cannot predict how the external environment will evolve and how it will ultimately impact the consumer. We will continue to execute with flexibility and focus on what has driven our successful performance. Our relentless focus on the customer and our ability to remain flexible and agile has enabled us to serve our customers and meet demand in this dynamic environment.
+Longer term, we remain committed to what we believe is the winning formula for our customers, our associates and our shareholders.
+• We intend to provide the best customer experience in home improvement;
+• We intend to extend our position as the low-cost provider;
+• And we intend to be the most efficient investor of capital in home improvement.
+If we do these things, we believe we will grow faster than our market and we will deliver exceptional shareholder value.
+Thank you for your participation in today's call, and Christine, we are now ready for questions.
+QUESTION AND ANSWER
+Operator
+[Operator Instructions] Our first question comes from the line of Simeon Gutman with Morgan Stanley. Please proceed with your question.
+Simeon Gutman - Morgan Stanley, Analyst
+Hi, everyone. My first question is, is there anything that changes your view on housing, more or less constructive compared to the underlying assumption that you built your 2021 plan against?
+  
+ Craig Menear - The Home Depot, Inc. - Chairman & CEO
+No, Simeon, I'd say yeah, the housing environment continues to remain very strong, so it's only strengthened I think from last year, and the current shortage of new housing clearly is helping to drive improvements in the home values, which is a good thing for spending in the home.
+Simeon Gutman - Morgan Stanley, Analyst
+Okay. And then my follow-up is actually more on operating profit and margin. And I think your message is very clear that you're focused on growing faster than the market and I think Richard told us last quarter, you're managing operating profit dollars and margins fall where they fall.
+Can I ask about the two, I think about incremental drivers going forward. It's about interconnected retail and then somewhat in the MRO and Pro, because some of the investments and acquisitions you've made. Is there anything about the margin structure of those businesses and incremental growth that would hold back margins?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+No, I mean, when we look at the business overall, interconnected we manage as a portfolio approach, and 55% of the orders are flowing through our stores, and then as it relates to the structure in Pro, we've shared in the past and you look at Pro in total, Pro is a very similar margin profile to the DIY customer, when you're looking at a complete project. So that's really nothing there that's dramatically different.
+Simeon Gutman - Morgan Stanley, Analyst Okay. Thank you.
+Operator
+Our next question comes from the line of Michael Baker with D.A. Davidson. Please proceed with your question.
+Michael Baker – DA Davidson, Analyst
+Hi, thanks, guys, and I appreciate the fact that you didn't really update your outlook in your press release or talk to it too much, but I guess let me ask this. It seems you're probably ahead of where you thought you would be at this point, so is there any update to that idea of if trends continue it will be I think it was flat-to-up slightly and margins at or above 14%.
+Can you update that comment that you gave in the first quarter and I guess related to that, is the right way to think about comps for the quarter and I guess the year somewhere in that 30%, two-year stacked rate, would that be a fair sort of assumption to model for the rest of the year?
+     
+ Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Michael, let me share with you, I mean, clearly the quarter performance was stronger than what we anticipated. We did not think that we would deliver a 31 comp this quarter and as it relates to the framework that we provided, Richard you might want to speak to the framework.
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+Sure, and just to remind everyone, we actually, at the end of the fourth quarter last year, we felt unable to provide an outlook, due to the level of uncertainty in the environment, so we did not provide an outlook. We did feel that given the significance of nonrecurring expenses in 2020, we could provide our view on our margin profile at a hypothetical level of sales. So looking forward, we continue to believe that the environment and the consumer response to it is difficult to predict.
+With respect to Q1, we're very pleased with the operating expense leverage and earnings flow-through that we drove, and we're going to keep operating the business with discipline, and keep a focus on driving operating expense leverage.
+Michael Baker – DA Davidson, Analyst
+Okay. Thank you, I appreciate the commentary.
+Operator
+Our next question comes from the line of Michael Lasser with UBS. Please proceed with your question.
+Michael Lasser - UBS, Analyst
+If you look at your month of May and April, your two-year stacks were running around or even better than 40% and now, you mentioned May so far is up above 30%, so do you think that we're starting to see the stimulus impact to your comps dissipate and such that, and I know this was asked a couple different ways but 30% run rate and a two-year stack run rate that could move forward or is it better for us to expect that that 30% two-year stack run rate should slow from here?
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+Well, Michael, we just, we can't extrapolate results to future periods. It's just too difficult to predict how the environment might evolve and how the consumer's response to that might evolve. When you look at the progression from March and April, and you just think about stimulus impact, it's very difficult to quantify the impact from stimulus. What we do know is that of the $402 billion that the government announced would be paid directly to individuals as part of the American Rescue Plan, of that $402 billion, $325 billion of it hit bank accounts in March, and so while we can't quantify the exact impact, it probably did have some sort of impact on that March-to-April progression.
+     
+ Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Michael, I'd say we really can't extrapolate to future periods. The one thing that we're very encouraged about is when you look at the overall kind of backdrop for home improvement on the longer-term basis, we feel very good about that.
+Michael Lasser - UBS, Analyst
+Anything you want to point to specifically, Craig, from a longer-term basis?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Well, again, Mike, when you think about we're at post-World War II housing availability, so you know, two months of supply versus historical average of six, that situation won't be resolved in near-term. It's going to take time for that to be resolved, so I think that supports home values and the continued growth in home values which we know as home values grow, people feel good about investing in their home overall. So that alone is, I think, a very positive outlook for home improvement as you move forward.
+Michael Lasser - UBS, Analyst
+Okay. My follow-up question is how do you think your market share unfolded in the first quarter from an online perspective, recognizing that you had a very difficult comparison. Do you think you kept pace with the overall market and is this the right run rate for the online growth to think about moving forward?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+I mean, again, we look at this as a total and run this as a portfolio because it's so interconnected and if you look at the data, it appears that we picked up about 170 points in share overall, based on the March data that was put out by the government.
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+And you know, just to kind of talk about e-commerce. E-commerce is a capability. It is not a business, and so I think it's very important to always look at the top level demand in the environment and what we delivered, so we don't break the business down like that. We intend to be there for the customer however they like to shop. There's been a lot of dynamism in that as we worked through the last 12-months but we're satisfied that we've been there for them and as Craig said, it's because of the investments we made in interconnected retail over the last few years.
+Ted Decker - The Home Depot, Inc. - President & COO
+And Michael, as you think of last year and the first quarter, the interest in Buy Online Pick Up In-Store and we stood up curbside, again our customers chose to shop that way in a contactless or as least contact as possible in the early days of the pandemic, so that's returning to some more natural run rates.
+      
+ Michael Lasser - UBS, Analyst
+Got it. Thank you very much and good luck.
+Craig Menear - The Home Depot, Inc. - Chairman & CEO Thank you.
+Operator
+Our next question comes from the line of Chuck Grom with Gordon Haskett, please proceed with your question.
+Chuck Grom - Gordon Haskett, Analyst
+Good morning. I'm curious if you guys are surprised that your basket trends have held in such strong,
+even as your traffic has improved so much.
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+I mean, we are seeing customer engagement in all segments of our business, and when you, we've shared that through the progression of the last four quarters, our Pro-business has been strengthening as customers get more comfortable having folks in their home. Our services business has been strengthening for three quarters consecutively in a row now. Those are all big-ticket drivers and then as Ted called out, innovation has been a driver of expansion in our ticket, as well as inflation. Ted I don't know if you have any other comments.
+Ted Decker - The Home Depot, Inc. - President & COO
+I think it also speaks to projects. Again, people are engaged in projects and they are engaged in projects
+across the whole store, so with projects comes basket and ticket and we're certainly enjoying that.
+Chuck Grom - Gordon Haskett, Analyst
+Got it, and then just a quick follow-up from me would be, you spoke about the big increase in lumber prices. Curious what you're seeing on the demand side unit volume, if it's starting to compress a little bit as those prices rise.
+Ted Decker - The Home Depot, Inc. - President & COO
+Well, the lumber environment is certainly unique. And the way, we're thinking about it right now, Chuck, it's really a storm environment. It's very tough to look at traditional elasticity, certainly prices are up as I referenced in the call. A sheet of OSB has quadrupled in price and it's up even more since the end of our fiscal quarter. But at the same time, demand has kept pace, and when we bring the product into the store, it sells, and the mills are at capacity. We have plenty of wood fiber in the supply chain. The relative
+       
+bottleneck is in the sawmill cutting capacity. We don't see a lot of capacity coming online, so we're probably not going to see a lot of finished lumber product in distribution, so as soon as that product hits our stores, it sells. Certainly, price is up, and you would think there'd be a supply and demand traditional elasticity equation there, but it's hard to determine the impact given the storm nature of the demand.
+Chuck Grom - Gordon Haskett, Analyst Thanks a lot.
+Operator
+Our next question comes from the line of Scot Ciccarelli with RBC. Please proceed with your question.
+Scot Ciccarelli - RBC, Analyst
+Good morning. So, we know that you're working on your own Home Depot supply chain for at least for a couple years now. Obviously, the overall industry is extremely strong, but I'm curious, are there any examples you can share regarding how these new capabilities may be enabling you to either increase penetration rates in existing markets, or penetrate new markets where maybe you couldn't compete as well in the past?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+I'd say a couple things and I'll turn it over to Mark. So, first of all, the ability to meet the kind of demand we've seen on direct fulfillment, I think, has been a direct result of the investments that we've made in the business, and the customer satisfaction and efficiency that we're seeing through our new flatbed distribution centers indicates to us that we're making real progress with the customer there, and Mark, I don't know if you want to add to that?
+Mark Holifield - The Home Depot, Inc. - EVP, Supply Chain & Product Development
+Sure, Craig. Yeah, we had a great first quarter in our supply chain development, and we're on track based on that to continue to increase our fulfillment square footage over 70% this year. Specific to the results we're getting, in terms of the flatbed delivery centers maybe I'll highlight that. That was really designed to provide store relief, increase our customer satisfaction and service to customers, expand our available assortment, and delivery capabilities, and we now have four flatbed DCs open now in various stages of ramping. Dallas is the furthest along. It's ahead of our plans in terms of the flatbed sales comp which are very strong, and not just in dollars, but also in units, and in number of deliveries. Our customer satisfaction has improved by 11 percentage points. We've improved our on-time and complete. And notably, our Pro penetration is very strong, in fact the preponderance of sales out of that facility are in fact Pro, so really helping us to capture the Pro there in Dallas.
+     
+ Scot Ciccarelli - RBC, Analyst
+I guess a follow-up would just be – I guess, my understanding, at least historically, has been the new HD Supply capability – supply chain capabilities should enable you to penetrate markets where you really couldn't play before. You just didn't have that capability to be competitive. Are there any examples of where you're making progress on that front?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Yeah, I mean, the focus of the capabilities that we're building now is to be able to expand our reach into the Pro customer. We've been very strong over the years with the smaller Pro and the unplanned purchase with the larger Pro. And what we're building is the capabilities to actually extend into that planned purchase. And we're seeing that beginning to play out. So we're pleased with what we're seeing in the early stages.
+Operator
+Our next question comes from the line of Karen Short with Barclays. Please proceed with your question. Ms. Short, your line is live.
+Karen Short - Barclays, Analyst
+Right. I just wanted to ask a couple questions on the market in general. I'm wondering if you could frame how big you think the DIY market is versus the Pro market, I guess, post-pandemic versus pre-pandemic. And then I had another slightly different angle on a different question.
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Yeah, I mean, we really don't have data as it relates to what we think the growth in the market is. That's a
+pretty tough number to come by at this point.
+Karen Short - Barclays, Analyst Okay
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+I mean, obviously we play in a very big market. Straight out of the blocks, it's a $600-plus-billion market and the MRO space that we play in, which is largely focused on multi-families, is another $55 billion, so. But I have no way of knowing how much that's expanded as a result of the pandemic.
+Karen Short - Barclays, Analyst
+Okay. And then Richard, I just wanted to ask a question on the actual, that 14% framework that you had given and I realize that was just an attempt to give a framework. But when you look at your sales growth
+       
+this quarter versus your EBIT growth, EBIT grew more than double sales growth, whereas when I look at prior quarters, even if I add back COVID costs, you kind of had it like 10% spread. So I'm wondering if that is the right relationship to think about going forward, especially because even in 1Q, as you noted, you had the higher bonus accruals?
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+Well, what I'd say is, the reason that we laid out the 14% was because we knew that we were coming to a year where COVID expenses were rolling off and investment expenses were rolling off and so it was going to be – and is the first year where we said look, we are returning back to operating expense leverage that you can see in the P&L.
+We feel like we delivered that in Q1. We're very happy with the operating expense leverage and the flow- through relative to sales. And like we said, we're going to keep operating with discipline and we're going to drive operating expense leverage just as we intended. Margin will be a function of sales volume, obviously, but we're pleased with the relationship in Q1.
+Craig Menear - The Home Depot, Inc. - Chairman & CEO Yeah, Karen we naturally leverage with volume.
+Karen Short - Barclays, Analyst Can you say that one more time?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+We naturally leverage with volume. There is natural leverage built into the business with volume, so.
+Karen Short - Barclays, Analyst
+Yeah, I understand that. I mean, it's all a function of sales but it just – it is definitely a much wider gap on the two, because it would imply full year numbers are way too low depending on how that relationship continues.
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+Well, I think you – one of the other reasons that we laid out a hypothetical was because it is harder to read-through on a one or a two-year comparison in operating expense because of the fact that we were still in the middle of an investment program in 2019 and exiting it at the end of 2020. So again, the best comment I can give is we were very happy with Q1, and how we drove operating expense leverage and flow-through.
+      
+ Operator
+Our next question comes from the line of Christopher Horvers with JP Morgan. Please proceed with your question.
+Chris Horvers - JP Morgan, Analyst
+Thanks. Good morning, everybody. So my first question is do you think stimulus helps the DIY side of the business more than the Pro. And not sure if you looked at it this way, but on a two-year basis did Pro accelerate more than the DIY side of the business?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+I'd say, Chris, on the stimulus situation, it's all consumer demand. Whether it is the Pro buying for the consumer because the consumer is doing something or the consumer buying for the Pro, so we kind of look at it as total demand.
+Chris Horvers - JP Morgan, Analyst
+And then, I guess, anything on a two-year – I guess my thought on that is Pro, you've got to get them in your house, and there's a lot of backlog. So it would seem like it could be a near-term bump on DIY versus Pro, so – and you also had some Pro comparisons last year where the Pro was non-essential, so I was just curious if you had teased out what it looked on a two-year basis.
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+Well, the two-year stack plainly is the consumer has outgrew the Pro modestly on a two-year basis, but I don't know that that provides information that's more helpful than saying that the Pro has come back to the job site. Demand seems to be in a potentially more easily-fulfilled through the Pro than it was a year ago. But like Craig said, I think you have to look at top-line demand. Ultimately this is all, or almost all, consumer demand that is being fulfilled in different ways, so if anything we're happy with the fact that the Pro seems to have easier access to the job site and is getting to the job site easier.
+Chris Horvers - JP Morgan, Analyst
+Got it. Makes sense, and then May was a funny month, last month you had sort of stimulus spill over into the first half, you had Pro restrictions and you talked about on a two-year basis north of 30%, but can you maybe tease out how that month played out relative to the 27% total or even talk about one-year comp trends quarter-to-date?
+     
+ Richard McPhail - The Home Depot, Inc. - EVP & CFO I'm not sure I understand your question.
+Chris Horvers - JP Morgan, Analyst
+You talked about in May being north of 30% on a two-year basis, last year you did a 27% in May but there was a lot of noise, so boiling it down can you talk about on a one year basis what the business looks like so far in May?
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+No we're two weeks in. It's just too early but as we said, demand remains strong.
+Operator
+Our next question comes from the line of Zach Fadem with Wells Fargo. Please proceed with your question.
+Zach Fadem - Wells Fargo, Analyst
+Hey, good morning. Richard, could you talk about performance at the gross margin line versus your initial plan, and to what extent was lumber an incremental headwind and when you think about the other moving parts around promo, underlying comp leverage maybe mixing in HD Supply , is there anything in Q1 that changes your thinking for the full year gross margin framework?
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+Well, so versus last year, again, just to recap, we saw a decrease of approximately 10 basis points in gross margin, 35 basis points of which were from the increased penetration of lumber in our sales, and so the net of that obviously shows margins up. There's no doubt there is cost pressure in the economy and in our environment, but hats-off to our merchants and our supply chain for managing through that and Ted maybe I'll turn it to you for a little bit of color.
+Ted Decker - The Home Depot, Inc. - President & COO
+The merchants and the supply chain team did a fantastic job. Over the years, we've built tools and processes that give us terrific visibility and great partnership with our finance teams. And as Craig's always said we run the business as a portfolio and we're a project business, and we're always looking to provide the best value to our customers on a project basis.
+Having said that, we certainly saw transportation pressure shrink. On a relative basis it was slightly improved but we are still seeing shrink pressure. And then we're seeing some commodity as in lumber in non-commodity cost pressures, but the team has worked through that. Believe it or not, there's still cost- out in the portfolio, so we still work on cost-out and optimization of supply chain flows. And given the
+      
+strong demand, our promotional cadence was slightly higher than last year. There were some early spring participation that we had completely canceled last year, and so we're up in some activity on promotions. The overall level of promotions and any required clearance activity was down meaningfully, so that is what gave the balance of the offset of the cost and mix pressures.
+Zach Fadem - Wells Fargo, Analyst
+Got it, that's helpful color, Ted. Another one for you, and also Craig. As you think about all the drivers of home improvement spending today, could you comment on how much of the industry you would quantify as repair and maintenance spending? How much is being driven by housing turnover and then what would you call discretionary?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Yeah, honestly, we have not taken the time to try to break that out in this demand environment, so I really couldn't give you a breakdown on that. We know that repair and remodel is the essence of what our business is all about. And then of course, we're there to help customers fulfill their dreams in terms of updating their homes. And clearly over the last year as customers have spent more time in their homes, they've told us that a home is never more important than it is today. And many of those customers, like myself, got to see a whole lot of things that needed to be done around the home, and they've been going after that.
+When times got difficult in 2007 and 2008, repair became more important than remodel, but we're certainly not in that kind of environment today. So I just don't have any way of knowing that expansion by those breakdowns at this point.
+Operator
+Our next question comes from the line of Liz Suzuki with Bank of America. Please proceed with your question.
+Liz Suzuki - BofA, Analyst
+Great. Thank you. Can you just talk about new customer growth and whether you're seeing a greater
+degree of growth in new Pros versus new DIYers?
+Ted Decker - The Home Depot, Inc. - President & COO
+Yes. We are very happy with our overall customer portfolio, both DIY, Pro, and are engaging in interconnected capabilities. While I won't give any specific numbers and breakouts, I can tell you that our customer files of both Pro and consumer have grown. The health of those files are really strong with a repurchase rate of developed customers growing faster than the new customer so the new customers gained last year we've been able to keep active in our portfolio at terrific rates and our Pro customers [indiscernible] (49:14) the activity we're seeing in engagement with our Pro customers with our B2B website, delivery capabilities, our new loyalty program, all of those are also adding to stickiness of the
+     
+Pro customer.
+Liz Suzuki - BofA, Analyst
+Great. And just on the services side, I mean, how big is that now as a percent of sales? I know it's probably relatively small, but I mean are there areas where you think you can expand into services without competing with your Pro customers?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Yeah, that business is in the 4-ish, 5% range. We are very pleased with the results that we are seeing in
+that business and we think we can do that without competing with our pro customers.
+Operator
+Our next question comes from the line of Steven Forbes with Guggenheim. Please proceed with your question.
+Steve Forbes - Guggenheim, Analyst
+Good morning. Maybe I'll just start with a quick follow-up on the broader supply chain initiatives. Ted, I think you mentioned 70% increase in distribution footage this year so maybe if you can update us on how many facilities that correlates to, and any color on the cadence or the planned cadence of openings.
+Ted Decker - The Home Depot, Inc. - President & COO Mark, do you want to take that?
+Mark Holifield - The Home Depot, Inc. - EVP, Supply Chain & Product Development
+Sure. We're on our way to 35 FDCs, flatbed delivery centers. We have four open today. We're opening several more through the end of the year. We've got a very solid pipeline there. Our MDOs, we ended 2020 with 39. We opened 8 in Q1, and we're opening more there on our way to roughly 100, and then MDCs, we've got two of those open, we opened Houston during Q1. We have a healthy pipeline there, opening several more through the year as well, and on our way to 20-ish or so MDCs.
+Steve Forbes - Guggenheim, Analyst
+Thank you. And then maybe just a quick follow-up for Richard. I think I don't believe you called out the incremental strategic investment spend impact when you walked through the expense line items, so maybe if you can just remind us on where we are, right, in terms of the trajectory of that strategic investment spend that's captive within the model.
+       
+ Richard McPhail - The Home Depot, Inc. - EVP & CFO
+Well, at the end of Q4 last year, we announced that our strategic investment program that stretched from 2018 to 2020 was materially complete. And so going forward, our stance is that we will look to invest approximately 2% of sales every year in the form of CapEx. There will be associated expense with that, but I would just consider that part of our expense structure going forward.
+Operator
+Our next question comes from the line of Dennis McGill with Zelman. Please proceed with your question.
+Dennis McGill - Zelman, Analyst
+Hi, thank you. Ted, on the lumber side, when we think about I guess that's the biggest driver of the commodity inflation, is it fair to assume that that impact accelerated through the quarter and was largest in April and then as we think about that impact so far in May would be similarly above what you experienced in the first quarter?
+Ted Decker - The Home Depot, Inc. - President & COO
+Yes, it literally, week-on-week, it's gone up and as we sit last week, framing and panel are effectively
+quadrupled in the market index pricing and again, each of those went up last week.
+Dennis McGill - Zelman, Analyst
+Okay, perfect. And then anything else to learn from the category performance as you look at passing the April comp of last year and looking at that on a two-year basis, any categories actually accelerating on a two-year basis versus decelerating? And I guess just on the quarter itself, the one category that wasn't 20%, just curious on what that was.
+Ted Decker - The Home Depot, Inc. - President & COO
+So the category that was not 20% was paint. We were very pleased with the performance in paint, but last year, I think everyone stayed home and painted, so we had incredibly tough compares, so we didn't quite hit the 20% mark. Overall on what's accelerating, I would say continued outdoor living has been very strong, so if all of you are interested things like grills and patio sets, those are going to be in shorter supply as we get into the spring because the demand is incredibly strong. And in things like patio, we do a fixed buy as most of that is import and we had to make the decision on the buy level quite some time ago, so that's been particularly strong.
+Dennis McGill - Zelman, Analyst
+Anything else on the other side besides paint that you can call out as being a decelerating trend?
+      
+ Ted Decker - The Home Depot, Inc. - President & COO No.
+Operator
+Our next question comes from the line of Greg Melich with Evercore. Please proceed with your question.
+Greg Melich - Evercore, Analyst
+Hi, thanks. Richard, if we think about that operating leverage and compare it to 2019, you're up 180 basis points. As we think about it going forward, is it fair to say that now we're where we want to be going forward? In other words, in the second quarter you normally are a few billion more sales and usually, your operating margin is a little higher than the first quarter if you look over the last five years. Is there any reason why we shouldn’t assume that sort of flow-through now?
+Richard McPhail - The Home Depot, Inc. - EVP & CFO
+Well, with respect to sales, we're not going to extrapolate what we've seen into the future. Obviously, there's a degree of uncertainty on how the consumer is going to respond this year. I'll just say it again, Greg. When you compare the first quarter of this year to the first quarter of last year, and you adjust for nonrecurring expenses, we feel very pleased with the operating expense leverage that we drove and the flow-through that we drove at this level of volume
+Greg Melich - Evercore, Analyst
+Got it, and if I could follow-up on inflation and mix. If the commodity part of it, that wasn't just lumber, right? The 375 bps was lumber and maybe copper and other commodities or was it specifically lumber and then as part of that if that was just lumber?
+Ted Decker - The Home Depot, Inc. - President & COO Lumber and copper primarily, yes.
+Greg Melich - Evercore, Analyst
+Got it. And so then if we look at that average basket up 10%, is it fair to say that overall inflation or
+average AUR was 500 bps, 600 bps of that basket increase?
+Ted Decker - The Home Depot, Inc. - President & COO No. no.
+       
+ Craig Menear - The Home Depot, Inc. - Chairman & CEO
+It was also driven by project nature of the business, the innovation that the merchants have brought to the market.
+Richard McPhail - The Home Depot, Inc. - EVP & CFO Mix. You've got as a percentage of basket, I mean it's...
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Yeah. Wasn't all driven by lumber
+Greg Melich - Evercore, Analyst
+So inflation isn't widespread across the store or across the store it's more mix
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+If you think about it from a ticket standpoint, the ticket is being driven by a multitude of things. Yes, there is inflation and we've been able to pass through. But again, it's also driven by the fact that our Pro business strength drives a higher average ticket. Our services business drives a higher average ticket, and so there's a number of factors that drove the ticket strength overall in the business, innovation within categories, so as you continue to expand and grow in cordless capability and outdoor power equipment, for example, the average price in a lawn mower that is a cordless versus gas is significantly higher. All of that contributes to driving the growth in ticket.
+Isabel Janci - The Home Depot, Inc. - VP, IR & Treasurer Christine, we have time for one more question.
+Operator
+Thank you. Our final question comes from the line of Scott Mushkin with R5 Capital. Please proceed with your question.
+Scott Mushkin - R5 Capital, Analyst
+Hey, guys, thanks for taking my question. So I was just wondering if you talked about labor inflation, and just the overall inflation, as you guys think about the back half of the year, so that's the number one question.
+       
+ Craig Menear - The Home Depot, Inc. - Chairman & CEO
+Yeah, I mean, as you know, we converted part of our COVID expense into permanent labor cost in the November timeframe of 2020, and so obviously, all that is in the performance that we just delivered. As it relates to labor in total, this is spring, we're hiring up. We've been able to hire more folks this year than last year, even though we were ramping last year to cover the demand. And so that's something that we work on a week-to-week basis. To be flexible and agile right now is incredibly important, and the two areas that we're focused on, not knowing exactly how all this will play out, is inventory flow and labor. Those are the two things that we're focused on. Both are relatively short-cycle planning, and so that's really what we're trying to make sure we can cover the demand that's out there.
+Scott Mushkin - R5 Capital, Analyst
+And are you guys having any trouble getting labor and having to raise labor rates a lot in certain markets
+or is that really not an issue for you guys at this stage?
+Craig Menear - The Home Depot, Inc. - Chairman & CEO
+No, I mean, there's always variances by-market and some markets are more challenging than others in any
+given year, but as I said, we've actually hired more folks this year than we did last year.
+Operator
+Thank you, Ms. Janci, I would now like to turn the floor back over to you for closing comments.
+Isabel Janci - The Home Depot, Inc. - VP, IR & Treasurer
+Thank you all for joining us today we look forward to speaking with you on our second quarter earnings
+call in August.
+Operator
+This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation and have a wonderful day.
